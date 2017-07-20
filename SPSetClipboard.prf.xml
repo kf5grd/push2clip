@@ -1,0 +1,41 @@
+<TaskerData sr="" dvi="1" tv="5.0">
+	<Profile sr="prof39" ve="2">
+		<cdate>1499143101694</cdate>
+		<edate>1500499597107</edate>
+		<id>39</id>
+		<mid0>40</mid0>
+		<nme>SPSetClipboard</nme>
+		<Event sr="con0" ve="2">
+			<code>671036993</code>
+			<pri>0</pri>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<com.twofortyfouram.locale.intent.extra.BLURB>Title=clip, Event=tasker</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<io.tymm.simplepush.plugin.tasker.event.extra.EVENT_EXPR>tasker</io.tymm.simplepush.plugin.tasker.event.extra.EVENT_EXPR>
+					<io.tymm.simplepush.plugin.tasker.event.extra.EVENT_EXPR-type>java.lang.String</io.tymm.simplepush.plugin.tasker.event.extra.EVENT_EXPR-type>
+					<io.tymm.simplepush.plugin.tasker.event.extra.MESSAGE_EXPR></io.tymm.simplepush.plugin.tasker.event.extra.MESSAGE_EXPR>
+					<io.tymm.simplepush.plugin.tasker.event.extra.MESSAGE_EXPR-type>java.lang.String</io.tymm.simplepush.plugin.tasker.event.extra.MESSAGE_EXPR-type>
+					<io.tymm.simplepush.plugin.tasker.event.extra.PLUGIN_VERSION>0</io.tymm.simplepush.plugin.tasker.event.extra.PLUGIN_VERSION>
+					<io.tymm.simplepush.plugin.tasker.event.extra.PLUGIN_VERSION-type>java.lang.Integer</io.tymm.simplepush.plugin.tasker.event.extra.PLUGIN_VERSION-type>
+					<io.tymm.simplepush.plugin.tasker.event.extra.TITLE_EXPR>clip</io.tymm.simplepush.plugin.tasker.event.extra.TITLE_EXPR>
+					<io.tymm.simplepush.plugin.tasker.event.extra.TITLE_EXPR-type>java.lang.String</io.tymm.simplepush.plugin.tasker.event.extra.TITLE_EXPR-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">io.tymm.simplepush</Str>
+			<Str sr="arg2" ve="3">io.tymm.simplepush.plugin.tasker.screen.EditActivity</Str>
+		</Event>
+	</Profile>
+	<Task sr="task40">
+		<cdate>1499143107573</cdate>
+		<edate>1500498928230</edate>
+		<id>40</id>
+		<Action sr="act0" ve="7">
+			<code>105</code>
+			<Str sr="arg0" ve="3">%sp_msg</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+	</Task>
+</TaskerData>
