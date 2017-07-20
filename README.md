@@ -20,7 +20,7 @@ Installation
 --------
 - Clone git repo:
 ```
-~$ git clone https://kf5grd.github.com/placeholder
+~$ git clone https://github.com/kf5grd/push2clip.git
 ```
 
 
