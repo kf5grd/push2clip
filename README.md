@@ -19,15 +19,17 @@ Requirements
 Installation
 --------
 - Clone git repo:
-`~$ git clone https://github.com/kf5grd/push2clip.git`
-`~$ cd push2clip`
+```
+~$ git clone https://github.com/kf5grd/push2clip.git
+~$ cd push2clip
+```
 
 - Run install with pip:
 ```
-    ~$ pip install .
-        [...]
-        Cleaning up...
-    ~$ 
+~$ pip install .
+    [...]
+    Cleaning up...
+~$ 
 ```
 
 
@@ -50,10 +52,14 @@ Setup
 Usage
 --------
 Send custom message to clipboard:
-`~$ push2clip -m "Any message here."`
+```
+~$ push2clip -m "Any message here."
+```
 
 Pipe output of command into push2clip:
-`~$ uptime | push2clip`
+```
+~$ uptime | push2clip
+```
 
 
 License
