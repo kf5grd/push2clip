@@ -9,8 +9,8 @@ There are many ways to move data between your computer and your phone, and this 
 
 Requirements
 --------
-- Tasker
-- Simplepush
+- [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm)
+- [Simplepush](https://play.google.com/store/apps/details?id=io.tymm.simplepush)
 - Python 3
   - Requests
   - click
